@@ -2,7 +2,8 @@
   {
     "project": "GoodWorks",
     "policies": [
-      "ce9a6b3624b9c24e3ee3c67a6a7bf7db61ef7e894fa9c47d0d38c6d7"
+      "ce9a6b3624b9c24e3ee3c67a6a7bf7db61ef7e894fa9c47d0d38c6d7",
+      "87d2852db46db65ec45939c85e0545f6ceea3b57b50689e86218b518"
     ]
   }
 ]
